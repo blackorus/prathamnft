@@ -2,7 +2,6 @@ import React from "react";
 
 //INTERNAL IMPORT
 import Style from "../styles/login.module.css";
-import LoginAndSignUp from "../loginAndSignUp/loginAndSignUp";
 
 const signUp = () => {
   return (
