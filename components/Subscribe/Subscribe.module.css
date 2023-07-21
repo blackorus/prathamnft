@@ -50,7 +50,7 @@
     width: 80%;
     border-radius: 4rem;
     background-color: var(--icons-color);
-    color: var(--main-bg-color);
+    color: var(--icons-color);
 
     display: flex;
     align-items: center;
@@ -65,11 +65,12 @@
 }
 
 .subscribe_box_left_input input::placeholder{
-    color: var(--main-bg-color);
+    color: var(--icons-color);
     font-size: 1.2rem;
 }
 
 .subscribe_box_left_input_icon{
+    color: black;
     font-size: 2rem;
 }
 
