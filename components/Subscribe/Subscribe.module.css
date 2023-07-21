@@ -58,6 +58,7 @@
 
 .subscribe_box_left_input input{
     background-color: transparent;
+    color: black;
     border: 0;
     outline: none;
     width: 90%;
