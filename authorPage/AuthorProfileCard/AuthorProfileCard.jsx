@@ -64,7 +64,7 @@ const AuthorProfileCard = ({ currentAccount }) => {
 
         <div className={Style.AuthorProfileCard_box_info}>
           <h2>
-            Pratham Singh{""}{" "}
+            DONY HERRERA{""}{" "}
             <span>
               <MdVerified />
             </span>{" "}
@@ -84,16 +84,16 @@ const AuthorProfileCard = ({ currentAccount }) => {
           </p>
 
           <div className={Style.AuthorProfileCard_box_info_social}>
-            <a href="#">
+            <a href="https://www.facebook.com/realprathamsingh?mibextid=ZbWKwL">
               <TiSocialFacebook />
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/realprathamsingh/">
               <TiSocialInstagram />
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/pratham-singh-7321b41b3/">
               <TiSocialLinkedin />
             </a>
-            <a href="#">
+            <a href="https://www.youtube.com/channel/UCrOihalh3Hg9sFIHBABLI1Q">
               <TiSocialYoutube />
             </a>
           </div>
@@ -120,7 +120,7 @@ const AuthorProfileCard = ({ currentAccount }) => {
                   <TiSocialInstagram />
                 </span>{" "}
                 {""}
-                Instragram
+                Instagram
               </p>
               <p>
                 <span>

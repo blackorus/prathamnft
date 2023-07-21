@@ -36,61 +36,23 @@ const contactus = () => {
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>🌏 SOCIALS</h3>
-              <a href="#">
+              <a href="https://www.facebook.com/realprathamsingh?mibextid=ZbWKwL">
                 <TiSocialFacebook />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/pratham-singh-7321b41b3/">
                 <TiSocialLinkedin />
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/realprathamsingh/">
                 <TiSocialInstagram />
               </a>
-              <a href="#">
+              <a href="https://www.youtube.com/channel/UCrOihalh3Hg9sFIHBABLI1Q">
                 <TiSocialYoutube />
               </a>
-              <a href="#">
+              <a href="https://twitter.com/infostationco">
                 <TiSocialTwitter />
               </a>
             </div>
-          </div>
-          <div className={Style.contactus_box_box_right}>
-            <form>
-              <div className={formStyle.Form_box_input}>
-                <label htmlFor="name">Full Name</label>
-                <input
-                  type="text"
-                  placeholder="Enter Your Name"
-                  className={formStyle.Form_box_input_userName}
-                />
-              </div>
-              <div className={formStyle.Form_box_input}>
-                <label htmlFor="email">Email</label>
-                <div className={formStyle.Form_box_input_box}>
-                  <div className={formStyle.Form_box_input_box_icon}>
-                    <HiOutlineMail />
-                  </div>
-                  <input type="text" placeholder="Email*" />
-                </div>
-              </div>
-              <div className={formStyle.Form_box_input}>
-                <label htmlFor="description">Message</label>
-                <textarea
-                  name=""
-                  id=""
-                  cols="30"
-                  rows="6"
-                  placeholder="Your Query"
-                ></textarea>
-              </div>
-              <Button
-                btnName="Send Message"
-                handleClick={() => {
-                  
-                }}
-                classStyle={Style.button}
-              />
-            </form>
-          </div>
+          </div>        
         </div>
       </div>
     </div>

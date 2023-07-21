@@ -23,11 +23,6 @@ const aboutus = () => {
       position: "Co-founder, Chairman",
       images: images.founder3,
     },
-    {
-      name: "Rajkumari Bande",
-      position: "Co-Founder, Chief Strategy Officer",
-      images: images.founder4,
-    },
   ];
 
   const factsArray = [

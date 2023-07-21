@@ -20,24 +20,22 @@ const Service = () => {
           </p>
           <h3>Filter & Discover</h3>
           <p>
-            Connect with wallet, discover, buy NTFs, sell your NFTs and earn
-            money
+            Find your favourite NFT with our new feature Filter and Discover 
           </p>
         </div>
         <div className={Style.service_box_item}>
           <Image
             src={images.service2}
-            alt="Filter & Discover"
+            alt="Select NFT"
             width={100}
             height={100}
           />
           <p className={Style.service_box_item_step}>
-            <span>Step 1</span>
+            <span>Step 2</span>
           </p>
           <h3>Filter & Discover</h3>
           <p>
-            Connect with wallet, discover, buy NTFs, sell your NFTs and earn
-            money
+            Choose you favourite NFT you want to buy or create
           </p>
         </div>
         <div className={Style.service_box_item}>
@@ -48,7 +46,7 @@ const Service = () => {
             height={100}
           />
           <p className={Style.service_box_item_step}>
-            <span>Step 1</span>
+            <span>Step 3</span>
           </p>
           <h3>Connect Wallet</h3>
           <p>
@@ -64,12 +62,11 @@ const Service = () => {
             height={100}
           />
           <p className={Style.service_box_item_step}>
-            <span>Step 1</span>
+            <span>Step 4</span>
           </p>
           <h3>Start trading</h3>
           <p>
-            Connect with wallet, discover, buy NTFs, sell your NFTs and earn
-            money
+            Start trading, selling and ead easily buy your favourite NFT
           </p>
         </div>
       </div>

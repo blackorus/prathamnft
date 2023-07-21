@@ -26,16 +26,16 @@ const collectionProfile = () => {
           />
 
           <div className={Style.collectionProfile_box_left_social}>
-            <a href="#">
+            <a href="https://www.facebook.com/realprathamsingh?mibextid=ZbWKwL">
               <TiSocialFacebook />
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/realprathamsingh/">
               <TiSocialInstagram />
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/pratham-singh-7321b41b3/">
               <TiSocialLinkedin />
             </a>
-            <a href="#">
+            <a href="https://twitter.com/infostationco">
               <TiSocialTwitter />
             </a>
           </div>

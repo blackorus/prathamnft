@@ -56,9 +56,11 @@ import founder4 from "./founder4.jpg";
 import loader from "./loadergif.gif";
 import errorgif from "./error.gif";
 import transfer from "./transfer.gif";
+import video from "./video.gif";
 import transferEther from "./ethereTransfer.gif";
 
 export default {
+  video,
   hero2,
   founder1,
   founder2,

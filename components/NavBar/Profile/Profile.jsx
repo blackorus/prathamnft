@@ -30,22 +30,6 @@ const Profile = ({ currentAccount }) => {
       <div className={Style.profile_menu}>
         <div className={Style.profile_menu_one}>
           <div className={Style.profile_menu_one_item}>
-            <FaUserAlt />
-            <p>
-              <Link href={{ pathname: "/author" }}>My Profile</Link>
-            </p>
-          </div>
-          <div className={Style.profile_menu_one_item}>
-            <FaRegImage />
-            <p>
-              <Link href={{ pathname: "/author" }}>My Items</Link>
-            </p>
-          </div>
-          <div className={Style.profile_menu_one_item}>
-            <FaUserEdit />
-            <p>
-              <Link href={{ pathname: "/account" }}>Edit Profile</Link>
-            </p>
           </div>
         </div>
 
