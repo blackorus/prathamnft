@@ -18,9 +18,9 @@ const Service = () => {
           <p className={Style.service_box_item_step}>
             <span>Step 1</span>
           </p>
-          <h3>Filter & Discover</h3>
+          <h3>Install MetaMask</h3>
           <p>
-            Find your favourite NFT with our new feature Filter and Discover 
+            Download MetaMask extension from Chrome to access your Wallet
           </p>
         </div>
         <div className={Style.service_box_item}>
@@ -35,7 +35,7 @@ const Service = () => {
           </p>
           <h3>Filter & Discover</h3>
           <p>
-            Choose you favourite NFT you want to buy or create
+            Choose your favorite NFT you want to purchase or sell
           </p>
         </div>
         <div className={Style.service_box_item}>
@@ -48,9 +48,9 @@ const Service = () => {
           <p className={Style.service_box_item_step}>
             <span>Step 3</span>
           </p>
-          <h3>Connect Wallet</h3>
+          <h3>Sell & Buy</h3>
           <p>
-            Connect with wallet, discover, buy NTFs, sell your NFTs and earn
+            Start trading, selling, and easily buying your favorite NFT
             money
           </p>
         </div>
@@ -64,9 +64,9 @@ const Service = () => {
           <p className={Style.service_box_item_step}>
             <span>Step 4</span>
           </p>
-          <h3>Start trading</h3>
+          <h3>Transfer Funds</h3>
           <p>
-            Start trading, selling and ead easily buy your favourite NFT
+            Easily transfer funds from one wallet to another wallet
           </p>
         </div>
       </div>
