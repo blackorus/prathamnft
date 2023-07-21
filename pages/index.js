@@ -4,6 +4,7 @@ import React, { useState, useEffect, useContext } from "react";
 import Style from "../styles/index.module.css";
 import {
   HeroSection,
+  Service
   Subscribe,
   Title,
   NFTCard,
@@ -44,6 +45,7 @@ const Home = () => {
   return (
     <div className={Style.homePage}>
       <HeroSection />
+      <Service />
       <Title
         heading="Featured NFTs"
         paragraph="Discover the most outstanding NFTs in all topics of life."
